@@ -1,0 +1,12 @@
+description = 'NanoHttpd-Core'
+
+apply plugin: 'com.android.library'
+
+android {
+	compileSdkVersion 26
+
+	defaultConfig {
+		minSdkVersion 16
+		targetSdkVersion 26
+	}
+}
